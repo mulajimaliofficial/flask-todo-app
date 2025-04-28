@@ -76,20 +76,20 @@ Manage your daily tasks easily — create, update, delete, and mark them as comp
 
 
 ### Below i am sharing the postman test image
-###### **To register a user** <br /> <br /> ![register image](/media/register.png)
+****To register a user** <br /> <br /> ![register image](/media/register.png)
 
-###### To login user with their credentials ![login image](/media/login.png)
+**To login user with their credentials** <br /> <br />![login image](/media/login.png)
 
-###### To refresh the user token ![refresh image](/media/refresh.png)
+**To refresh the user token** <br /> <br /> ![refresh image](/media/refresh.png)
 
-###### To logout the user ![logout image](/media/logout.jpg)
+**To logout the user** <br /> <br /> ![logout image](/media/logout.jpg)
 
-###### To get the todos ![todos get image](/media/todo.png)
+**To get the todos** <br /> <br /> ![todos get image](/media/todo.png)
 
-###### To create the todos ![todos create image](/media/create.png)
+**To create the todos** <br /> <br /> ![todos create image](/media/create.png)
 
-###### To update the todos ![todos update image](/media/update.png)
+**To update the todos** <br /> <br /> ![todos update image](/media/update.png)
 
-###### To delete the todos ![todos delete image](/media/delete.png)
+**To delete the todos** <br /> <br /> ![todos delete image](/media/delete.png)
 
-###### token in headers ![token in header](/media/header.png)
+**token in headers** <br /> <br /> ![token in header](/media/header.png)
