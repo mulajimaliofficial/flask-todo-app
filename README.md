@@ -76,7 +76,7 @@ Manage your daily tasks easily — create, update, delete, and mark them as comp
 
 
 ### Below i am sharing the postman test image
-###### To register a user ![register image](/media/register.png)
+###### **To register a user** <br /> <br /> ![register image](/media/register.png)
 
 ###### To login user with their credentials ![login image](/media/login.png)
 
