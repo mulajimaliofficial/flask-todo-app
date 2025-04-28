@@ -1,5 +1,4 @@
 ## About Me
-
 Hi, I'm Mulajim Ali, a passionate **Full-Stack Developer** specializing in **Python (Flask/Django)**, **React.js**, and modern web development technologies.  
 This project reflects my love for building simple, scalable, and efficient applications.  
 Feel free to explore, fork, or contribute!
@@ -44,7 +43,6 @@ Manage your daily tasks easily — create, update, delete, and mark them as comp
     ├── requirements.txt
     ├── README.md
 
-
 ### Installation of virtualenv on windows
     $ pip install virtualenv
 
@@ -59,7 +57,6 @@ Manage your daily tasks easily — create, update, delete, and mark them as comp
 
 ### step to upgrade pip on windows
     $ python.exe -m pip install --upgrade pip
-
 
 ### steps to Database migrations
 ###### 1. Initialize migration
@@ -77,7 +74,6 @@ Manage your daily tasks easily — create, update, delete, and mark them as comp
 ### Future Improvements (Optional)
 * Filter tasks (All, Completed, Pending)
 * Deploy to production server
-
 
 ### Below i am sharing the postman test image
 **To register a user** <br /> <br /> ![register image](/media/register.png)
