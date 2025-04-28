@@ -74,6 +74,10 @@ Manage your daily tasks easily — create, update, delete, and mark them as comp
 ### Run the application
     $ python run.py
 
+### Future Improvements (Optional)
+* Filter tasks (All, Completed, Pending)
+* Deploy to production server
+
 
 ### Below i am sharing the postman test image
 **To register a user** <br /> <br /> ![register image](/media/register.png)
